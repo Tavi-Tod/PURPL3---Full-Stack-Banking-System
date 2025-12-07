@@ -2,8 +2,6 @@
 
 Un sistem bancar complet funcțional (Full Stack), dezvoltat pentru a simula operațiunile financiare reale într-o interfață modernă și securizată. Proiectul demonstrează integrarea dintre un Frontend dinamic și un Backend robust conectat la o bază de date relațională.
 
-![Banner Proiect](https://via.placeholder.com/1000x300/6c5ce7/ffffff?text=PURPL3+Banking+System)
-*(Poți înlocui link-ul de mai sus cu un screenshot real al dashboard-ului tău)*
 
 ## 🚀 Funcționalități Principale
 
