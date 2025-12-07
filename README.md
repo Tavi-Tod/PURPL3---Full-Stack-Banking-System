@@ -78,4 +78,4 @@ Poți folosi următoarele conturi predefinite pentru a testa funcționalitățil
 | **Admin** 🛡️ | `admin` | `admin123` |
 | **Client Demo** 👤 | `ion@test.com` | `123456` |
 
-<p align="center">Made with 💜 by [Numele Tău] & [Numele Colegului]</p>
+<p align="center">Made with 💜 by Toderașc Octavian-Gabriel & Chiculiță Rareș-Andrei</p>
